@@ -15,3 +15,12 @@ serving_dir
 *.csv
 .ipynb_checkpoints/
 !week_6_stream_processing/avro_example/data/rides.csv
+week_1_basics_n_setup/work_along_and_homework/GCP_account_key.json
+google-cloud-sdk.zip
+google-cloud-sdk/
+smethers.py
+terraform_1.3.7_windows_386.zip
+terraform.exe
+output.parquet
+config
+work_along_and_homework
